@@ -13,7 +13,8 @@ Contiene materiale teorico, esempi ed esercizi che riguardando S.O., in particol
  - Piping
  - ecc.
 
-Qui troverete la versione PDF dei vari documenti uniti, mentre nella cartella _source_ troverete i vari PDF dei singoli argomenti
+Qui troverete la versione PDF dei vari documenti uniti.
+Nella cartella _source_ troverete la versione word dei singoli argomenti mentre nella cartella _PDF_ troverete il PDF dei singoli documenti.
 
 ## Nota Bene:
 Ne io, ne chiunque mi abbia dato una mano nel comporre questo schema riassuntivo di reti, si assume alcun tipo di resposabilità in caso di informazioni e/o note errate o incomplete.
