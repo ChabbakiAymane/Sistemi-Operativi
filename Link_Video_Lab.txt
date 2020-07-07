@@ -1,0 +1,38 @@
+[BASH - I + II + III]:
+	https://drive.google.com/drive/folders/1MkOwO9Y9YnV_rK-xQrN9XFT1rML0jGhk?usp=sharing
+	https://drive.google.com/drive/folders/1pPCCLL_yzloZTazXNp2-a9aSPIA8MTeM?usp=sharing
+	https://drive.google.com/drive/folders/13hxzhgF6A2qOlsjdBZuv3Em0vjnPR6Ey?usp=sharing
+	
+[DOCKER]:
+	https://drive.google.com/drive/folders/1tlNVhKEijUdniB8qaN6SXi1Vlitu0n28?usp=sharing
+
+[SETUP]:
+	https://drive.google.com/drive/folders/1PosC93s3nXGFJrH-77Wk2zpgvV8IQWsC?usp=sharing
+
+[MAKE - I + II]:
+	https://drive.google.com/drive/folders/1kJfWzToZ93XhZgzDGQtkDNdCGha6GRRK?usp=sharing
+
+[C-LANG]:
+	https://drive.google.com/drive/folders/1mUXuXB_JGyZhDUBiQhuTi71lcoJfmz83?usp=sharing
+
+[PROCESS VARS]:
+	https://drive.google.com/drive/folders/1F26RKmPA2yxTWEKKK-asA4MTFnhN1Nlq?usp=sharing
+
+[SYSTEM SPACES A]:
+	https://drive.google.com/drive/folders/1xTGTBLd7v0LNsWyeAkEg2Bc2NjX0QgV6?usp=sharing
+
+[SYSTEM FILE]:
+	https://drive.google.com/drive/folders/1blvjcNkPm_wqj3sXPsUniR5MJ6F6gUoo?usp=sharing
+
+[SYSTEM SPACES B - Esercitazione]:
+	https://drive.google.com/drive/folders/1TsBtzxwSGjD2K1bqtD0mWTY2olNvj4cm?usp=sharing
+
+[FORKING]:
+	https://drive.google.com/drive/folders/1yfOYpOg6htxLv4SnDcc-vdt834zi-0xq?usp=sharing
+	https://drive.google.com/drive/folders/1xkNk_gU_lBpkrzORwove_XPSHV75XQPX
+
+[IPC-SIGNAL]:
+	https://drive.google.com/drive/folders/1SBWYukdz95o4pBQrQi9k5dW2cfkjSF4o?usp=sharing
+
+[IPC-PIPESFIFOS]:
+	https://drive.google.com/drive/folders/1ODXFK9okODuuleU3hBPWuyvqe6X5DqNa?usp=sharing
